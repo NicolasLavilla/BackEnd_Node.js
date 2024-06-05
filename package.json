@@ -1,0 +1,39 @@
+{
+  "name": "aprexibackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Nicolás Lavilla Calahorra",
+  "license": "ISC",
+  "dependencies": {
+    "awilix": "^10.0.2",
+    "awilix-express": "^9.0.1",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.10.0",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/express": "^4.17.21",
+    "@types/jest": "^29.5.12",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^20.12.12",
+    "@types/sequelize": "^4.28.20",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
