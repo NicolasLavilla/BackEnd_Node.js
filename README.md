@@ -17,4 +17,4 @@ Este repositorio contiene un backend robusto desarrollado en Node.js junto con E
   
 ## Autores:
 Nicolas Lavilla Calahorra
-- Mobile && Web Developer (FullStack)
+- Mobile & Web Developer (FullStack)
